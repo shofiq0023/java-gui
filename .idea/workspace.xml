@@ -7,9 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f4c78c-669d-4266-95ea-c9f2fc83538b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/My_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +81,7 @@
       <updated>1638707881266</updated>
       <workItem from="1638707884962" duration="191000" />
       <workItem from="1638708092904" duration="499000" />
-      <workItem from="1638708745714" duration="6018000" />
+      <workItem from="1638708745714" duration="6123000" />
     </task>
     <servers />
   </component>
